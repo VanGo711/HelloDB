@@ -1,0 +1,107 @@
+ABase: The Multi-Tenant NoSQL Serverless Database for Diverse and Dynamic Workloads in Large-scale Cloud Environments
+https://dl.acm.org/doi/abs/10.1145/3722212.3724426
+
+Query Decorrelation in the Fabric Data Warehouse
+https://dl.acm.org/doi/abs/10.1145/3722212.3724448
+
+Adaptive and Efficient Log Parsing as a Cloud Service
+https://dl.acm.org/doi/abs/10.1145/3722212.3724427
+
+CloudJump II: Optimizing Cloud Databases for Shared Storage
+https://dl.acm.org/doi/abs/10.1145/3722212.3724431
+
+A Modular Graph-Native Query Optimization Framework
+https://dl.acm.org/doi/abs/10.1145/3722212.3724425
+
+Scalable Execution of Application Logic within Everest BusinessStore
+https://dl.acm.org/doi/abs/10.1145/3722212.3724453
+
+Rel: A Programming Language for Relational Data
+https://dl.acm.org/doi/abs/10.1145/3722212.3724450
+
+TXSQL: Lock Optimizations Towards High Contented Workloads
+https://dl.acm.org/doi/abs/10.1145/3722212.3724457
+
+Experimental Evaluation of Optimizing Memory Consumption in SAP HANA using PEOopt
+https://dl.acm.org/doi/abs/10.1145/3722212.3724437
+
+CockroachDB Serverless: Sub-second scaling from zero with multi-region cluster virtualization
+https://dl.acm.org/doi/abs/10.1145/3722212.3724432
+
+Unified Lineage System: Tracking Data Provenance at Scale
+https://dl.acm.org/doi/abs/10.1145/3722212.3724458
+
+Rockhopper: A Robust Optimizer for Spark Configuration Tuning in Production Environment
+https://dl.acm.org/doi/abs/10.1145/3722212.3724451
+
+Including Bloom Filters in Bottom-up Optimization
+https://dl.acm.org/doi/abs/10.1145/3722212.3724440
+
+Oceanus: Enable SLO-Aware Vertical Autoscaling for Cloud-Native Streaming Service in Tencent
+https://dl.acm.org/doi/abs/10.1145/3722212.3724445
+
+Pruning in Snowflake: Working Smarter, Not Harder
+https://dl.acm.org/doi/abs/10.1145/3722212.3724447
+
+Enterprise Application-Database Co-Innovation for Hybrid Transactional/Analytical Processing: A Virtual Data Model and Its Query Optimization Needs
+https://dl.acm.org/doi/abs/10.1145/3722212.3724436
+
+SAP HANA Cloud: Data Management for Modern Enterprise Applications
+https://dl.acm.org/doi/abs/10.1145/3722212.3724452
+
+TigerVector: Supporting Vector Search in Graph Databases for Advanced RAGs
+https://dl.acm.org/doi/abs/10.1145/3722212.3724456
+
+Asynchronous Replication Strategies for a Real-Time DBMS
+https://dl.acm.org/doi/abs/10.1145/3722212.3724429
+
+Managed Resource Scaling in Amazon EMR
+https://dl.acm.org/doi/abs/10.1145/3722212.3724443
+
+MaLT: A Framework for Managing Large Transactions in OceanBase
+https://dl.acm.org/doi/abs/10.1145/3722212.3724442
+
+AutoComp: Automated Data Compaction for Log-Structured Tables in Data Lakes
+https://dl.acm.org/doi/abs/10.1145/3722212.3724430
+
+Flux: Unifying Heterogeneous Infrastructure for Alibaba AnalyticDB
+https://dl.acm.org/doi/abs/10.1145/3722212.3724438
+
+Databricks Lakeguard: Supporting fine-grained access control and multi-user capabilities for Apache Spark workloads.
+https://dl.acm.org/doi/abs/10.1145/3722212.3724433
+
+RedTAO: A Trillion-edge High-throughput Graph Store
+https://dl.acm.org/doi/abs/10.1145/3722212.3724449
+
+Unlocking the Potential of CXL for Disaggregated Memory in Cloud-Native Databases
+https://dl.acm.org/doi/abs/10.1145/3722212.3724460
+
+Eigen+: Memory Over-Subscription for Alibaba Cloud Databases
+https://dl.acm.org/doi/abs/10.1145/3722212.3724435
+
+Dynamic Pruning for Recursive Joins
+https://dl.acm.org/doi/abs/10.1145/3722212.3724434
+
+Scheduling Data Processing Pipelines for Incremental Training on MLP-based Recommendation Models
+https://dl.acm.org/doi/abs/10.1145/3722212.3724454
+
+AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference
+https://dl.acm.org/doi/abs/10.1145/3722212.3724428
+
+GES: High-Performance Graph Processing Engine and Service in Huawei
+https://dl.acm.org/doi/abs/10.1145/3722212.3724439
+
+Unity Catalog: Open and Universal Governance for the Lakehouse and Beyond
+https://dl.acm.org/doi/abs/10.1145/3722212.3724459
+
+JSON Relational Duality: A Revolutionary Combination of Document, Object, and Relational Models
+https://dl.acm.org/doi/abs/10.1145/3722212.3724441
+
+MicroNN: An On-device Disk-resident Updatable Vector Database
+https://dl.acm.org/doi/abs/10.1145/3722212.3724444
+
+Streaming Democratized: Ease Across the Latency Spectrum with Delayed View Semantics and Snowflake Dynamic Tables
+https://dl.acm.org/doi/abs/10.1145/3722212.3724455
+
+OpenMLDB: A Real-Time Relational Data Feature Computation System for Online ML
+https://dl.acm.org/doi/abs/10.1145/3722212.3724446

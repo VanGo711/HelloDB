@@ -1,2 +1,2 @@
 # HelloDB
-Implement a database system from scratch, following single-threaded, multi-threaded, and distributed development steps.
+Used to summarize papers in the field of databases (SIGMOD, VLDB, ICDE).
