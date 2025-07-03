@@ -1,83 +1,144 @@
+Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art
+https://dl.acm.org/doi/abs/10.1145/3709693
+近似近邻搜索, 综述
+
+Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search
+https://dl.acm.org/doi/abs/10.1145/3725413
+近似近邻搜索, 向量压缩, RaBitQ
+
+PDX: A Data Layout for Vector Similarity Search
+https://dl.acm.org/doi/abs/10.1145/3725333
+向量数据库, 列布局
+
+Fast Approximate Similarity Join in Vector Databases
+https://dl.acm.org/doi/abs/10.1145/3725403
+向量数据库, 近似相似性连接
+
+Tribase: A Vector Data Query Engine for Reliable and Lossless Pruning Compression using Triangle Inequalities
+https://dl.acm.org/doi/abs/10.1145/3709743
+近似近邻搜索, 聚类粒度
+
+RWalks: Random Walks as Attribute Diffusers for Filtered Vector Search
+https://dl.acm.org/doi/abs/10.1145/3725349
+近似近邻搜索, 过滤条件
+
+Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search
+https://dl.acm.org/doi/abs/10.1145/3698822
+近似近邻搜索, 过滤条件
+
+DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph
+https://dl.acm.org/doi/abs/10.1145/3709679
+近似近邻搜索, 混合向量查询
+
+Automating Vectorized Distributed Graph Computation
+https://dl.acm.org/doi/abs/10.1145/3698833
+多实例图算法
+
+Data Chunk Compaction in Vectorized Execution
+https://dl.acm.org/doi/abs/10.1145/3709676
+查询引擎, 列式数据, 哈希连接, 压缩数据块
+
 PilotDB: Database-Agnostic Online Approximate Query Processing with A Priori Error Guarantees
 https://dl.acm.org/doi/abs/10.1145/3725335
+近似查询处理
 
 Low-Latency Transaction Scheduling via Userspace Interrupts: Why Wait or Yield When You Can Preempt?
 https://dl.acm.org/doi/abs/10.1145/3725319
+事务调度
 
 Fast Maximum Common Subgraph Search: A Redundancy-Reduced Backtracking Approach
 https://dl.acm.org/doi/abs/10.1145/3725404
+最大公共子图
 
 RM^2: Answer Counting Queries Efficiently under Shuffle Differential Privacy
 https://dl.acm.org/doi/abs/10.1145/3725415
+差分隐私
 
 Hydro: Adaptive Query Processing of ML Queries
 https://dl.acm.org/doi/abs/10.1145/3725408
+查询优化
 
 Alsatian: Optimizing Model Search for Deep Transfer Learning
 https://dl.acm.org/doi/abs/10.1145/3725264
+模型搜索, 迁移学习
 
 AJOSC: Adaptive join order selection for continuous queries on data streams
 https://dl.acm.org/doi/abs/10.1145/3725263
+连接顺序, 连续多路连接
 
 Using Process Calculus for Optimizing Data and Computation Sharing in Complex Stateful Parallel Computations
 https://dl.acm.org/doi/abs/10.1145/3725421
+并行计算
 
 Self-Enhancing Video Data Management System for Compositional Events with Large Language Models
 https://dl.acm.org/doi/abs/10.1145/3725352
+视频查询
 
 SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training
 https://dl.acm.org/doi/abs/10.1145/3725360
+图神经网络, 训练框架
 
 HoneyComb: A Parallel Worst-Case Optimal Join on Multicores
 https://dl.acm.org/doi/abs/10.1145/3725307
+连接顺序
 
 SBSC: A fast Self-tuned Bipartite proximity graph-based Spectral Clustering
 https://dl.acm.org/doi/abs/10.1145/3725418
+谱聚类
 
 Subgroup Discovery with Small and Alternative Feature Sets
 https://dl.acm.org/doi/abs/10.1145/3725358
+子群发现
 
 SwiftSpatial: Spatial Joins on Modern Hardware
 https://dl.acm.org/doi/abs/10.1145/3725361
+空间连接, FPGA
 
 GTX: A Write-Optimized Latch-free Graph Data System with Transactional Support
 https://dl.acm.org/doi/abs/10.1145/3725305
+图数据系统, 写入优化
 
 Malleus: Straggler-Resilient Hybrid Parallel Training of Large-scale Models via Malleable Data and Model Parallelization
 https://dl.acm.org/doi/abs/10.1145/3725322
+混合并行训练, 大模型
 
 Physical Visualization Design: Decoupling Interface and System Design
 https://dl.acm.org/doi/abs/10.1145/3725334
+物理可视化设计工具
 
 High-Throughput Ingestion for Video Warehouse: Comprehensive Configuration and Effective Exploration
 https://dl.acm.org/doi/abs/10.1145/3725407
+视频流提取
 
 Revisiting Graph Analytics Benchmarks
 https://dl.acm.org/doi/abs/10.1145/3725345
+图分析, Benchmark, 大模型
 
 Parallel k-Core Decomposition: Theory and Practice
 https://dl.acm.org/doi/abs/10.1145/3725332
+图分析, k核分解
 
 Synthesizing Third Normal Form Schemata that Minimize Integrity Maintenance and Update Overheads
 https://dl.acm.org/doi/abs/10.1145/3725362
+关系模式设计
 
 Styx: Transactional Stateful Functions on Streaming Dataflows
 https://dl.acm.org/doi/abs/10.1145/3725363
+数据流, 事务
 
 Faster and Efficient Density Decomposition via Proportional Response with Exponential Momentum
 https://dl.acm.org/doi/abs/10.1145/3725405
+图挖掘, 密度向量
 
 Efficient and Accurate Differentially Private Cardinality Continual Releases
 https://dl.acm.org/doi/abs/10.1145/3725288
+数据流, 基数估计, 差分隐私
 
 Robust Privacy-Preserving Triangle Counting under Edge Local Differential Privacy
 https://dl.acm.org/doi/abs/10.1145/3725348
 
 LICS: Towards Theory-Informed Effective Visual Abstraction of Property Graph Schemas
 https://dl.acm.org/doi/abs/10.1145/3725410
-
-Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search
-https://dl.acm.org/doi/abs/10.1145/3725413
 
 Finding Logic Bugs in Graph-processing Systems via Graph-cutting
 https://dl.acm.org/doi/abs/10.1145/3725300
@@ -235,9 +296,6 @@ https://dl.acm.org/doi/abs/10.1145/3725354
 How to Grow an LSM-tree: Towards Bridging The Gap Between Theory and Practice
 https://dl.acm.org/doi/abs/10.1145/3725310
 
-Fast Approximate Similarity Join in Vector Databases
-https://dl.acm.org/doi/abs/10.1145/3725403
-
 Extending SQL to Return a Subdatabase
 https://dl.acm.org/doi/abs/10.1145/3725291
 
@@ -286,9 +344,6 @@ https://dl.acm.org/doi/abs/10.1145/3725394
 Adda: Towards Efficient in-Database Feature Generation via LLM-based Agents
 https://dl.acm.org/doi/abs/10.1145/3725262
 
-RWalks: Random Walks as Attribute Diffusers for Filtered Vector Search
-https://dl.acm.org/doi/abs/10.1145/3725349
-
 SpareLLM: Automatically Selecting Task-Specific Minimum-Cost Large Language Models under Equivalence Constraint
 https://dl.acm.org/doi/abs/10.1145/3725356
 
@@ -334,8 +389,7 @@ https://dl.acm.org/doi/abs/10.1145/3725278
 A Cost-Effective LLM-based Approach to Identify Wildlife Trafficking in Online Marketplaces (Data-Driven Applications)
 https://dl.acm.org/doi/abs/10.1145/3725256
 
-PDX: A Data Layout for Vector Similarity Search
-https://dl.acm.org/doi/abs/10.1145/3725333
+
 
 Two Birds with One Stone: Efficient Deep Learning over Mislabeled Data through Subset Selection
 https://dl.acm.org/doi/abs/10.1145/3728289
@@ -390,9 +444,6 @@ https://dl.acm.org/doi/abs/10.1145/3709653
 
 Sequoia: An Accessible and Extensible Framework for Privacy-Preserving Machine Learning over Distributed Data
 https://dl.acm.org/doi/abs/10.1145/3709742
-
-Tribase: A Vector Data Query Engine for Reliable and Lossless Pruning Compression using Triangle Inequalities
-https://dl.acm.org/doi/abs/10.1145/3709743
 
 SNAILS: Schema Naming Assessments for Improved LLM-Based SQL Inference
 https://dl.acm.org/doi/abs/10.1145/3709727
@@ -490,9 +541,6 @@ https://dl.acm.org/doi/abs/10.1145/3709672
 Minimum Spanning Tree Maintenance in Dynamic Graphs
 https://dl.acm.org/doi/abs/10.1145/3709704
 
-Data Chunk Compaction in Vectorized Execution
-https://dl.acm.org/doi/abs/10.1145/3709676
-
 Progressive entity resolution: a design space exploration
 https://dl.acm.org/doi/abs/10.1145/3709715
 
@@ -556,9 +604,6 @@ https://dl.acm.org/doi/abs/10.1145/3709654
 B$\circledS X$ : Subgraph Matching with Batch Backtracking Search
 https://dl.acm.org/doi/abs/10.1145/3709665
 
-DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph
-https://dl.acm.org/doi/abs/10.1145/3709679
-
 Efficient Index Maintenance for Effective Resistance Computation on Evolving Graphs
 https://dl.acm.org/doi/abs/10.1145/3709686
 
@@ -589,9 +634,6 @@ https://dl.acm.org/doi/abs/10.1145/3709660
 CRDV: Conflict-free Replicated Data Views
 https://dl.acm.org/doi/abs/10.1145/3709675
 
-Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art
-https://dl.acm.org/doi/abs/10.1145/3709693
-
 Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search
 https://dl.acm.org/doi/abs/10.1145/3709729
 
@@ -615,9 +657,6 @@ https://dl.acm.org/doi/abs/10.1145/3698802
 
 LSMGraph: A High-Performance Dynamic Graph Storage System with Multi-level CSR
 https://dl.acm.org/doi/abs/10.1145/3698818
-
-Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search
-https://dl.acm.org/doi/abs/10.1145/3698822
 
 Buffered Persistence in B+ Trees
 https://dl.acm.org/doi/abs/10.1145/3698801
@@ -669,9 +708,6 @@ https://dl.acm.org/doi/abs/10.1145/3698826
 
 Constant-time Connectivity Querying in Dynamic Graphs
 https://dl.acm.org/doi/abs/10.1145/3698805
-
-Automating Vectorized Distributed Graph Computation
-https://dl.acm.org/doi/abs/10.1145/3698833
 
 High-Performance Query Processing with NVMe Arrays: Spilling without Killing Performance
 https://dl.acm.org/doi/abs/10.1145/3698813
